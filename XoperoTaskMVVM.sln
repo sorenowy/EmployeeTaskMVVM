@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoperoTaskMVVM", "XoperoTaskMVVM\XoperoTaskMVVM.csproj", "{20501978-B00E-40CD-AF53-931E04FEF90B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoperoTaskMVVM.Unit", "XoperoTaskMVVM.Unit\XoperoTaskMVVM.Unit.csproj", "{AFF4F72A-B284-4844-85F0-DEB07942EE0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20501978-B00E-40CD-AF53-931E04FEF90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20501978-B00E-40CD-AF53-931E04FEF90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20501978-B00E-40CD-AF53-931E04FEF90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20501978-B00E-40CD-AF53-931E04FEF90B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF4F72A-B284-4844-85F0-DEB07942EE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF4F72A-B284-4844-85F0-DEB07942EE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF4F72A-B284-4844-85F0-DEB07942EE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF4F72A-B284-4844-85F0-DEB07942EE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {899B3058-E0F7-402E-B4F9-74B8E77C6CD6}
+	EndGlobalSection
+EndGlobal
